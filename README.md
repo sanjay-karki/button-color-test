@@ -1,3 +1,18 @@
+# Button Color Test
+**Live Demo:**
+https://sanjay-karki.github.io/button-color-test/
+
+## :page_with_curl:	Problem:
+**_Using ReactJS, write a solution that does the following:_**
+1. Render a button on the DOM
+2. On button click, change the color of the button randomly (available colors are red, green, blue, black, and orange); however, if the previous color was blue the next color should always be green. Use state to store the color
+3. Using store, reducers, and context, keep track of the colors that were rendered and display them below the button in a comma-separated string. For example, red, blue, and green. The text for each color should also display their color
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
