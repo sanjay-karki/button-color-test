@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/button-color-test/static/css/main.e013d862.css",
+    "main.js": "/button-color-test/static/js/main.c900eab0.js",
+    "static/js/787.1fc32452.chunk.js": "/button-color-test/static/js/787.1fc32452.chunk.js",
+    "index.html": "/button-color-test/index.html",
+    "main.e013d862.css.map": "/button-color-test/static/css/main.e013d862.css.map",
+    "main.c900eab0.js.map": "/button-color-test/static/js/main.c900eab0.js.map",
+    "787.1fc32452.chunk.js.map": "/button-color-test/static/js/787.1fc32452.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e013d862.css",
+    "static/js/main.c900eab0.js"
+  ]
+}
